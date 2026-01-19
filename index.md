@@ -10,3 +10,7 @@ Some Python code:
 print("Hello World")
 list = [i ** 2 for i in range(10)]
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Introduce myself to the world
+- [ ] Outline my portfolio
